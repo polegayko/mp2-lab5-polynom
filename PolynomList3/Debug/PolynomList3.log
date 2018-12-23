@@ -1,0 +1,5 @@
+﻿  PolynomList3.cpp
+c:\users\наташа полегайко\source\repos\polynomlist3\polynomlist3\tpolimon.h(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\наташа полегайко\source\repos\polynomlist3\polynomlist3\tpolimon.h(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\наташа полегайко\source\repos\polynomlist3\polynomlist3\tpolimon.h(52): warning C4018: <=: несоответствие типов со знаком и без знака
+  PolynomList3.vcxproj -> C:\Users\Наташа Полегайко\source\repos\PolynomList3\Debug\PolynomList3.exe
