@@ -54,10 +54,9 @@ int main()
 	cout << "R=Q+P=\n "<<s1 << endl;
 	Q.AddMonom(-12, 303);
 	s1 = Q.GetPolinom(10);
-	cout << s1 << endl; */
+	cout << s1 << endl; 
 	TPolimon Pol("2xy-15z^2xy^3+4");
 	cout << Pol.GetPolinom() << endl;
-	/*
 	string P1[5] = {"3x^5y^2z^5-5x^4y^3z^3+7x^3y^5z",
 				 "3x^5y^2z^5-5x^4y^3z^3+7x^3y^5z",
 				 "3x^5y^2z^5-5x^4y^3z^3+7x^3y^5z",
